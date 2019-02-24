@@ -158,7 +158,7 @@
         "SCSS"
       ],
       "name": "Centre for Alternative Technology",
-      "description": "While working at Mashbo, a client wanted a Wordpress website that combined there many sites into one. After a long set of planning, I realised that the we could offer them increased flexibility despite the limitation of the Wordpress platform by building a modular \"blocks\" system for their website. After working with the in-house designer to split his design into \"blocks, My coworkers agreed and I looked at building a prototype for the system. A little after the site was signed off by the client, Wordpress Gutenberg was released with many of the same ideas that we had put into the CAT website.",
+      "description": "While working at Mashbo, a client wanted a Wordpress website that combined there many sites into one. After a long set of planning, I realised that the we could offer them increased flexibility despite the limitation of the Wordpress platform by building a modular \"blocks\" system for their website. After working with the in-house designer to split his design into \"blocks\", My coworkers agreed and I looked at building a prototype for the system. A little after the site was signed off by the client, Wordpress Gutenberg was released with many of the same ideas that we had put into the CAT website.",
       "url": "https://www.cat.org.uk/"
     },
     {
