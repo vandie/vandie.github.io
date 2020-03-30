@@ -33,17 +33,15 @@
 			"endDate": "Jul 2017"
 		}
 	],
-	"work": [{
-			"keywords": [
-				"NodeJS",
-				"Couchbase",
-				"Svelte",
-				"Docker",
-				"PHP"
-			],
+	"work": [
+    {
 			"name": "Puntt (RPGG Media Ltd)",
 			"description": "Puntt is the world's first licenced esports player betting site. Making use of Pool betting, I am responsible for maintaining the core backend systems of the Puntt Site. This includes the systems for running the betting pools as well as the systems for settlement based on external APIs. I trained up numerous new staff members to ensure they understood how the system worked as well as what was required for maintenance.",
-			"url": "https://puntt.gg/"
+			"website": "https://puntt.gg/",
+      "startDate": "Jul 2019",
+      "endDate": "Present",
+      "location": "Liverpool",
+      "position": "Software Engineer"
 		},
 		{
 			"company": "Vandie Studios Ltd.",
@@ -80,8 +78,8 @@
 			"company": "Mashbo",
 			"position": "Front End Developer",
 			"location": "Liverpool",
-			"startDate": "March 2018",
-			"endDate": "Present"
+			"startDate": "Mar 2018",
+			"endDate": "Jun 2019"
 		}
 	],
 	"skills": [{
