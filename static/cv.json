@@ -35,7 +35,7 @@
 	],
 	"work": [
     {
-			"name": "Puntt (RPGG Media Ltd)",
+			"company": "Puntt (RPGG Media Ltd)",
 			"description": "Puntt is the world's first licenced esports player betting site. Making use of Pool betting, I am responsible for maintaining the core backend systems of the Puntt Site. This includes the systems for running the betting pools as well as the systems for settlement based on external APIs. I trained up numerous new staff members to ensure they understood how the system worked as well as what was required for maintenance.",
 			"website": "https://puntt.gg/",
       "startDate": "Jul 2019",
@@ -109,7 +109,7 @@
 				"Visual Studio",
 				"Trello",
 				"JIRA",
-				"Zshell"
+				"ZShell"
 			]
 		},
 		{
