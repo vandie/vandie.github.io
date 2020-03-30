@@ -33,18 +33,19 @@
 			"endDate": "Jul 2017"
 		}
 	],
-	"work": [{
+	"work": [
+    {
 			"company": "RPGG Media Ltd",
 			"highlights": [
-				"Maintain the core systems of the Puntt product",
-				"Train up new staff members on the processes and standards followed within the Puntt codebase",
-				"Support the operations staff when issues were faced outside of standard work hours"
-			],
+        "Maintain the core systems of the Puntt product",
+        "Train up new staff members on the processes and standards followed within the Puntt codebase",
+        "Support the operations staff when issues were faced outside of standard work hours"
+      ],
 			"website": "https://puntt.gg/",
-			"startDate": "Jul 2019",
-			"endDate": "Present",
-			"location": "Liverpool",
-			"position": "Software Engineer"
+      "startDate": "Jul 2019",
+      "endDate": "Present",
+      "location": "Liverpool",
+      "position": "Software Engineer"
 		},
 		{
 			"company": "Vandie Studios Ltd.",
@@ -133,7 +134,19 @@
 			"name": "Languages"
 		}
 	],
-	"projects": [{
+	"projects": [
+    {
+    "name": "Puntt",
+    "url: "https://puntt.gg",
+    "keywords": [
+      "NodeJS",
+      "Couchbase",
+      "PHP",
+      "Svelte"
+    ],
+    "description": "Puntt is the world's first licenced esports player betting site. Making use of Pool betting, I am responsible for maintaining the core backend systems of the Puntt Site. This includes the systems for running the betting pools as well as the systems for settlement based on external APIs. I trained up numerous new staff members to ensure they understood how the system worked as well as what was required for maintenance.",
+  },
+  {
 		"name": "Thanks",
 		"description": "Although the project is no longer up and running, Thanks was a gratitude based reward system for employees and students wherein helping your coworkers could be internally recognised and later rewarded. It was the primary product of my company, Vandie Studios Ltd.",
 		"url": "",
@@ -143,16 +156,6 @@
 			"MongoDB",
 			"Google Cloud"
 		]
-	}, {
-		"name": "Puntt",
-		"url": "https://puntt.gg",
-		"keywords": [
-			"NodeJS",
-			"Couchbase",
-			"PHP",
-			"Svelte"
-		],
-		"description": "Puntt is the world's first licenced esports player betting site. Making use of Pool betting, I am responsible for maintaining the core backend systems of the Puntt Site. This includes the systems for running the betting pools as well as the systems for settlement based on external APIs. I trained up numerous new staff members to ensure they understood how the system worked as well as what was required for maintenance."
 	}],
 	"awards": [{
 		"summary": "After pitching against a range of other local ideas, We were selected for a grant of £500 in order to kickstart the building of our Thanks platform",
