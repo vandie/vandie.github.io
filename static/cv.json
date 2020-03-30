@@ -1,159 +1,152 @@
 {
-  "basics": {
-    "name": "Michael Van Der Velden",
-    "website": "https://mikevdv.me",
-    "twitter": "https://twitter.com/mvd_vandie",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Liverpool",
-      "countryCode": "UK",
-      "region": "Merseyside"
-    },
-    "email": "mikevdv@vandie.co.uk",
-    "phone": "removed",
-    "description": "My name is Michael. I am a full stack javascript developer based in Liverpool. At age 16, I founded a limited company to sell a web based reward system to businesses. While that product is no longer accessible to the public, I used it as a jumping off platform to get my foot into the development world. After some time at an internship and a stint at a web development agency, I got a job at Puntt. I have been working at Puntt since partway through 2018 and have been responsible for updating and maintaining the core systems for day to day business. I'm a confident individual, who likes to keep my skills on the cutting edge, and a potential asset to any team."
-  },
-  "education": [
-    {
-      "area": "Computer Science",
-      "gpa": "C",
-      "institution": "The Studio School",
-      "studyType": "A Level",
-      "location": "Liverpool",
-      "startDate": "Sep 2014",
-      "endDate": "Jul 2017"
-    },
-    {
-      "area": "Creative Media",
-      "gpa": "D* D*",
-      "institution": "The Studio School",
-      "studyType": "BTEC",
-      "location": "Liverpool",
-      "startDate": "Sep 2014",
-      "endDate": "Jul 2017"
-    }
-  ],
-  "work": [
-    {
-      "keywords": [
-        "NodeJS",
-        "Couchbase",
-        "Svelte",
-        "Docker"
-        "PHP",
-      ],
-      "name": "Puntt (RPGG Media Ltd)",
-      "description": "Puntt is the world's first licenced esports player betting site. Making use of Pool betting, I am responsible for maintaining the core backend systems of the Puntt Site. This includes the systems for running the betting pools as well as the systems for settlement based on external APIs. I trained up numerous new staff members to ensure they understood how the system worked as well as what was required for maintenance."
-      "url": "https://puntt.gg/"
-    },
-    {
-      "company": "Vandie Studios Ltd.",
-      "position": "Founder",
-      "website": "http://vandie.co.uk",
-      "endDate": "Jan 2018",
-      "highlights": [
-        "Design and Build our gratitude based reward system using a range of technologies",
-        "Ensure the site was presentable and pitch it to potential investors"
-      ],
-      "location": "Liverpool",
-      "startDate": "Aug 2015"
-    },
-    {
-      "company": "Angel Solutions.",
-      "position": "Internship",
-      "website": "http://www.angelsolutions.co.uk",
-      "endDate": "Feb 2018",
-      "highlights": [
-        "Took part in regular \"Clean Code\" Sessions",
-        "Discussed Programing best practice with team members",
-        "Regularly met with the company founder to access skill progress"
-      ],
-      "location": "Liverpool",
-      "startDate": "June 2016"
-    },
-    {
-      "highlights": [
-        "Build stateful web applications using Ember.JS",
-        "Work with clients to ensure Wordpress blogs met their design brief",
-        "Manage deadlines to ensure that client projects got out the door by given release dates",
-        "Research new technologies to ensure products were improved for clients were possible"
-      ],
-      "company": "Mashbo",
-      "position": "Front End Developer",
-      "location": "Liverpool",
-      "startDate": "March 2018",
-      "endDate": "Present"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "",
-      "keywords": [
-        "Javascript"
-        "NodeJS",
-        "Vue.JS",
-        "Svelte",
-        "EmberJS"
-        "React",
-        "Couchbase",
-        "MongoDB"
-        "PHP",
-        "SQL"
-      ]
-    },
-    {
-      "name": "Proficient Tools",
-      "level": "",
-      "keywords": [
-        "Git",
-        "Github",
-        "Gitlab",
-        "VS Code",
-        "Visual Studio",
-        "Trello",
-        "JIRA",
-        "Zshell"
-      ]
-    },
-    {
-      "keywords": [
-        "I'm confident",
-        "I'm at ease speaking in front of large and small crowds alike",
-        "I can easily listen to a range of solutions and decide on a plan of approach",
-        "I can take criticism in my stride and use it to better myself",
-        "I can work in a team or alone depending on what the situation requires"
-      ],
-      "name": "Soft Skills"
-    },
-    {
-      "keywords": [
-        "English",
-        "Dutch"
-      ],
-      "name": "Languages"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Thanks",
-      "description": "Although the project is no longer up and running, Thanks was a gratitude based reward system for employees and students wherein helping your coworkers could be internally recognised and later rewarded. It was the primary product of my company, Vandie Studios Ltd.",
-      "url": "",
-      "keywords": [
-        "VueJS"
-        "NodeJS",
-        "MongoDB",
-        "Google Cloud"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "summary": "After pitching against a range of other local ideas, We were selected for a grant of £500 in order to kickstart the building of our Thanks platform",
-      "title": "Awesome Liverpool",
-      "date": "Feb 2017",
-      "awarder": "The Awesome Foundation"
-    }
-  ]
+	"basics": {
+		"name": "Michael Van Der Velden",
+		"website": "https://mikevdv.me",
+		"twitter": "https://twitter.com/mvd_vandie",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Liverpool",
+			"countryCode": "UK",
+			"region": "Merseyside"
+		},
+		"email": "mikevdv@vandie.co.uk",
+		"phone": "removed",
+		"description": "My name is Michael. I am a full stack javascript developer based in Liverpool. At age 16, I founded a limited company to sell a web based reward system to businesses. While that product is no longer accessible to the public, I used it as a jumping off platform to get my foot into the development world. After some time at an internship and a stint at a web development agency, I got a job at Puntt. I have been working at Puntt since partway through 2018 and have been responsible for updating and maintaining the core systems for day to day business. I'm a confident individual, who likes to keep my skills on the cutting edge, and a potential asset to any team."
+	},
+	"education": [{
+			"area": "Computer Science",
+			"gpa": "C",
+			"institution": "The Studio School",
+			"studyType": "A Level",
+			"location": "Liverpool",
+			"startDate": "Sep 2014",
+			"endDate": "Jul 2017"
+		},
+		{
+			"area": "Creative Media",
+			"gpa": "D* D*",
+			"institution": "The Studio School",
+			"studyType": "BTEC",
+			"location": "Liverpool",
+			"startDate": "Sep 2014",
+			"endDate": "Jul 2017"
+		}
+	],
+	"work": [{
+			"keywords": [
+				"NodeJS",
+				"Couchbase",
+				"Svelte",
+				"Docker",
+				"PHP"
+			],
+			"name": "Puntt (RPGG Media Ltd)",
+			"description": "Puntt is the world's first licenced esports player betting site. Making use of Pool betting, I am responsible for maintaining the core backend systems of the Puntt Site. This includes the systems for running the betting pools as well as the systems for settlement based on external APIs. I trained up numerous new staff members to ensure they understood how the system worked as well as what was required for maintenance.",
+			"url": "https://puntt.gg/"
+		},
+		{
+			"company": "Vandie Studios Ltd.",
+			"position": "Founder",
+			"website": "http://vandie.co.uk",
+			"endDate": "Jan 2018",
+			"highlights": [
+				"Design and Build our gratitude based reward system using a range of technologies",
+				"Ensure the site was presentable and pitch it to potential investors"
+			],
+			"location": "Liverpool",
+			"startDate": "Aug 2015"
+		},
+		{
+			"company": "Angel Solutions.",
+			"position": "Internship",
+			"website": "http://www.angelsolutions.co.uk",
+			"endDate": "Feb 2018",
+			"highlights": [
+				"Took part in regular \"Clean Code\" Sessions",
+				"Discussed Programing best practice with team members",
+				"Regularly met with the company founder to access skill progress"
+			],
+			"location": "Liverpool",
+			"startDate": "June 2016"
+		},
+		{
+			"highlights": [
+				"Build stateful web applications using Ember.JS",
+				"Work with clients to ensure Wordpress blogs met their design brief",
+				"Manage deadlines to ensure that client projects got out the door by given release dates",
+				"Research new technologies to ensure products were improved for clients were possible"
+			],
+			"company": "Mashbo",
+			"position": "Front End Developer",
+			"location": "Liverpool",
+			"startDate": "March 2018",
+			"endDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "Web Development",
+			"level": "",
+			"keywords": [
+				"Javascript",
+				"NodeJS",
+				"Vue.JS",
+				"Svelte",
+				"EmberJS",
+				"React",
+				"Couchbase",
+				"MongoDB",
+				"PHP",
+				"SQL"
+			]
+		},
+		{
+			"name": "Proficient Tools",
+			"level": "",
+			"keywords": [
+				"Git",
+				"Github",
+				"Gitlab",
+				"VS Code",
+				"Visual Studio",
+				"Trello",
+				"JIRA",
+				"Zshell"
+			]
+		},
+		{
+			"keywords": [
+				"I'm confident",
+				"I'm at ease speaking in front of large and small crowds alike",
+				"I can easily listen to a range of solutions and decide on a plan of approach",
+				"I can take criticism in my stride and use it to better myself",
+				"I can work in a team or alone depending on what the situation requires"
+			],
+			"name": "Soft Skills"
+		},
+		{
+			"keywords": [
+				"English",
+				"Dutch"
+			],
+			"name": "Languages"
+		}
+	],
+	"projects": [{
+		"name": "Thanks",
+		"description": "Although the project is no longer up and running, Thanks was a gratitude based reward system for employees and students wherein helping your coworkers could be internally recognised and later rewarded. It was the primary product of my company, Vandie Studios Ltd.",
+		"url": "",
+		"keywords": [
+			"VueJS",
+			"NodeJS",
+			"MongoDB",
+			"Google Cloud"
+		]
+	}],
+	"awards": [{
+		"summary": "After pitching against a range of other local ideas, We were selected for a grant of £500 in order to kickstart the building of our Thanks platform",
+		"title": "Awesome Liverpool",
+		"date": "Feb 2017",
+		"awarder": "The Awesome Foundation"
+	}]
 }
