@@ -11,8 +11,8 @@
       "region": "Merseyside"
     },
     "email": "mikevdv@vandie.co.uk",
-    "phone": "Contact me for my number",
-    "description": "My name is Michael. I am a full stack javascript developer based in Liverpool. At age 16, I founded a limited company to sell a web based reward system to businesses. I worked on this product with 2 others and while it is no longer running, it helped me to gain an appreciation for various aspects of the software development and sales cycle. At the beginning of 2018, I joined Mashbo, where I currently work on client based web apps and websites. I have worked on numerous open source projects which can be found on my linked Github and Twitter accounts. I am a strong member of any team and am always happy and open to new ideas and approaches."
+    "phone": "removed",
+    "description": "My name is Michael. I am a full stack javascript developer based in Liverpool. At age 16, I founded a limited company to sell a web based reward system to businesses. While that product is no longer accessible to the public, I used it as a jumping off platform to get my foot into the development world. After some time at an internship and a stint at a web development agency, I got a job at Puntt. I have been working at Puntt since partway through 2018 and have been responsible for updating and maintaining the core systems for day to day business. I'm a confident individual, who likes to keep my skills on the cutting edge, and a potential asset to any team."
   },
   "education": [
     {
@@ -36,29 +36,38 @@
   ],
   "work": [
     {
+      "keywords": [
+        "NodeJS",
+        "Couchbase",
+        "Svelte",
+        "Docker"
+        "PHP",
+      ],
+      "name": "Puntt (RPGG Media Ltd)",
+      "description": "Puntt is the world's first licenced esports player betting site. Making use of Pool betting, I am responsible for maintaining the core backend systems of the Puntt Site. This includes the systems for running the betting pools as well as the systems for settlement based on external APIs. I trained up numerous new staff members to ensure they understood how the system worked as well as what was required for maintenance."
+      "url": "https://puntt.gg/"
+    },
+    {
       "company": "Vandie Studios Ltd.",
       "position": "Founder",
       "website": "http://vandie.co.uk",
       "endDate": "Jan 2018",
       "highlights": [
         "Design and Build our gratitude based reward system using a range of technologies",
-        "Ensure the site was presentable and pitch it to potential investors",
-        "Ensure that the companies finances kept us afloat",
-        "Pitch the product to potential buyers",
-        "Manage the development team"
+        "Ensure the site was presentable and pitch it to potential investors"
       ],
       "location": "Liverpool",
       "startDate": "Aug 2015"
     },
     {
       "company": "Angel Solutions.",
-      "position": "Intern / Under Mentorship",
+      "position": "Internship",
       "website": "http://www.angelsolutions.co.uk",
       "endDate": "Feb 2018",
       "highlights": [
         "Took part in regular \"Clean Code\" Sessions",
-        "Had regular meetings with owner, Andy Kent, about my own company",
-        "Discussed Programing best practice with team members"
+        "Discussed Programing best practice with team members",
+        "Regularly met with the company founder to access skill progress"
       ],
       "location": "Liverpool",
       "startDate": "June 2016"
@@ -68,7 +77,7 @@
         "Build stateful web applications using Ember.JS",
         "Work with clients to ensure Wordpress blogs met their design brief",
         "Manage deadlines to ensure that client projects got out the door by given release dates",
-        "Research new technologies that could make products better for clients"
+        "Research new technologies to ensure products were improved for clients were possible"
       ],
       "company": "Mashbo",
       "position": "Front End Developer",
@@ -82,25 +91,16 @@
       "name": "Web Development",
       "level": "",
       "keywords": [
-        "JavaScript (Including ES2015+ and Node.JS)",
+        "Javascript"
+        "NodeJS",
         "Vue.JS",
-        "Ember.JS",
-        "React (Basic ability)",
-        "CSS",
-        "SCSS",
-        "HTML",
-        "PHP",
-        "SQL",
+        "Svelte",
+        "EmberJS"
+        "React",
+        "Couchbase",
         "MongoDB"
-      ]
-    },
-    {
-      "name": "Software & Game Development",
-      "level": "",
-      "keywords": [
-        "C#",
-        "Unity 3D",
-        "Electron"
+        "PHP",
+        "SQL"
       ]
     },
     {
@@ -111,10 +111,10 @@
         "Github",
         "Gitlab",
         "VS Code",
-        "Insomnia",
         "Visual Studio",
         "Trello",
-        "JIRA"
+        "JIRA",
+        "Zshell"
       ]
     },
     {
@@ -141,36 +141,11 @@
       "description": "Although the project is no longer up and running, Thanks was a gratitude based reward system for employees and students wherein helping your coworkers could be internally recognised and later rewarded. It was the primary product of my company, Vandie Studios Ltd.",
       "url": "",
       "keywords": [
+        "VueJS"
         "NodeJS",
         "MongoDB",
-        "Micro-services",
-        "Java",
-        "Swift",
-        "AWS"
+        "Google Cloud"
       ]
-    },
-    {
-      "keywords": [
-        "Wordpress",
-        "Sage 9",
-        "JS (ES6)",
-        "Webpack",
-        "SCSS"
-      ],
-      "name": "Centre for Alternative Technology",
-      "description": "While working at Mashbo, a client wanted a Wordpress website that combined there many sites into one. After a long set of planning, I realised that the we could offer them increased flexibility despite the limitation of the Wordpress platform by building a modular \"blocks\" system for their website. After working with the in-house designer to split his design into \"blocks\", My coworkers agreed and I looked at building a prototype for the system. A little after the site was signed off by the client, Wordpress Gutenberg was released with many of the same ideas that we had put into the CAT website.",
-      "url": "https://www.cat.org.uk/"
-    },
-    {
-      "keywords": [
-        "Ember.JS",
-        "Webpack",
-        "PHP",
-        "SCSS"
-      ],
-      "name": "Property Cloud",
-      "description": "One of Mashbo's biggest products, Property cloud is an online student accommodation management tool. Allowing students to get paperwork filled quickly, report issues easily all the while decreasing the amount of work required by agents. I worked on property cloud sporadically, when required, and helped restructure the routing system for the project as well as making the login flow simpler and more fluid. One of the first tasks I had on the project was to build the current (accurate as of 20th of Feb 2019) landing page.",
-      "url": "https://www.propertycloud.io"
     }
   ],
   "awards": [
