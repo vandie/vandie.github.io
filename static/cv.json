@@ -54,7 +54,7 @@
 			"endDate": "Feb 2018",
 			"highlights": [
 				"Took part in regular \"Clean Code\" Sessions",
-				"Discussed Programing best practice with team members",
+				"Discussed Programming best practice with team members",
 				"Regularly met with the company founder to access skill progress"
 			],
 			"location": "Liverpool",
@@ -79,12 +79,12 @@
       "name": "Javascript Development",
       "level": "",
       "keywords": [
-        "Javascript ES6+ - I use modern Javascript estensively, having converted multiple projects from Jquery to modern JS and having maintained a number of pure JS projects.",
-        "NodeJS - At every role I've had I used NodeJS as my go to backend language of choice. While occasionally used alongside PHP, I have usualy used this with Express and NginX for the best experience. At RPGG, the majority of the core betting code is NodeJS Code I've written.",
+        "Javascript ES6+ - I use modern Javascript extensively, having converted multiple projects from JQuery to modern JS and having maintained a number of pure JS projects.",
+        "NodeJS - At every role I've had I used NodeJS as my go to backend language of choice. While occasionally used alongside PHP, I have usually used this with Express and NginX for the best experience. At RPGG, the majority of the core betting code is NodeJS Code I've written.",
         "Vue.JS 2 - Used for numerous internal projects while at RPGG Media Ltd and Mashbo as well as most of my personal projects. Some highlights include Thanks and my CV site.",
         "Svelte - Used for most of the newer projects a RPGG Media Ltd. The Puntt client rebuild is using this meaning I've gotten very confident with it.",
         "Ember.JS - Used extensively at Mashbo for web app projects. Including a few VR ones.",
-        "React - I used react when building the mashbo component based site builder. A way I developed for clients to be able to edit parts of their sites themeselves."
+        "React - I used react when building the mashbo component based site builder. A way I developed for clients to be able to edit parts of their sites themselves."
       ]
     },
     {
@@ -102,9 +102,9 @@
       "name": "Databases (NoSQL and SQL)",
       "level": "",
       "keywords": [
-        "MongoDB - For personal projects, mongoDB is my goto. It's easy to set up, simple to secure and nice to work with. For a lot of smaller projects where you want to itterate quickly, mongoDB is perfect.",
+        "MongoDB - For personal projects, mongoDB is my goto. It's easy to set up, simple to secure and nice to work with. For a lot of smaller projects where you want to iterate quickly, mongoDB is perfect.",
         "Couchbase - Puntt is built on top of couchbase, using extensive use of couchbase views for fast information recall. As such, I have a good understanding of couchbase and how to use it effectively.",
-        "SQL - At Mashbo, due to the heavy use of PHP on some projects, SQL was sused due to its good support in both NodeJS and PHP. As such I'm comfortable using SQL day to day."
+        "SQL - At Mashbo, due to the heavy use of PHP on some projects, SQL was used due to its good support in both NodeJS and PHP. As such I'm comfortable using SQL day to day."
       ]
     },
     {
@@ -114,16 +114,16 @@
         "CSS - I'm very comfortable with css. having spent time as a front end developer it was for a while my bread and butter.",
         "SCSS - I find SCSS can sometimes be quicker to write but it has its downsides in encouraging bad practices which I've learned to avoid.",
         "HTML - Basic skill I've used for every bit of web dev I've ever done.",
-        "PHP - Mashbo used a fair bit of PHP using a veriety of frameworks, as such, while it wasn't my main tool. It was somthing I got comfortable with."
+        "PHP - Mashbo used a fair bit of PHP using a variety of frameworks, as such, while it wasn't my main tool. It was something I got comfortable with."
       ]
     },
     {
       "name": "Software Development",
       "level": "",
       "keywords": [
-        "Electron - Most offline tools I build for RPGG are built in electron due to it's portability and ease of use.",
+        "Electron - Most offline tools I build for RPGG are built in electron due to its portability and ease of use.",
         "Rust - During the lockdown of 2020 I took the time out to learn rust. While not at the level of most of my skills, I'm still very comfortable with it.",
-        "Haxe - A great cross platform language. While not used in many profesional settings, writing Haxe is a personal hobby of mine."
+        "Haxe - A great cross platform language. While not used in many professional settings, writing Haxe is a personal hobby of mine."
       ]
     },
     {
