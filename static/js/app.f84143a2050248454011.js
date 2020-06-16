@@ -600,7 +600,7 @@ webpackJsonp(
                                   var np = 0;
                                   for (var C, I = S()(this.cv.skills); !(k = (C = I.next()).done); k = !0) {
                                       var x = C.value;
-                                      if(np++ === 2){
+                                      if(np++ === 3){
                                         this.addPage();
                                         np = 0;
                                       }
